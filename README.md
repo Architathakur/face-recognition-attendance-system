@@ -37,16 +37,6 @@ A Python Streamlit application to take attendance using face recognition snapsho
    streamlit run attendance_system_on_streamlit.py
    ```
 
-## Folder Structure
-
-face-recognition-attendance/
-│
-├─ known_faces/          # Images of known people
-├─ logs/                 # Attendance CSV logs
-├─ attendance_system_on_streamlit.py
-├─ README.md
-├─ requirements.txt
-└─ .gitignore
 
 ## Author
 
