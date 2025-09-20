@@ -1,0 +1,28 @@
+Python cache
+
+pycache/
+*.pyc
+*.pyo
+*.pyd
+
+Environment files
+
+.env
+
+Logs and CSV
+
+logs/
+*.csv
+
+Mac OS
+
+.DS_Store
+
+Virtual environment
+
+venv/
+.env/
+
+Streamlit cache
+
+.streamlit/
